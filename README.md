@@ -4,7 +4,7 @@
 https://github.com/LaniusWreath/UnrealCPP.git
 <br>
 <br>
-### CPP 개인 학습 - Backjoon c++
+### CPP 개인 학습
 https://github.com/LaniusWreath/CPP.git
 <br>
 <br>
